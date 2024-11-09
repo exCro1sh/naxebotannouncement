@@ -1,1 +1,2 @@
-Deneme
+Değerli kullanıcılarımız,
+Türkiye'de discord.com adresine 09/10/2024 tarihinde Ankara 1. Sulh Ceza Hakimliği'nin 2024/12907 D. İş sayılı kararıyla erişim engeli getirilmiştir. Bu durum nedeniyle Discord tabanlı bot hizmetlerimiz, API erişimlerinin kesilmesinden dolayı geçici bir süre boyunca hizmet verememektedir.
